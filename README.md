@@ -1,6 +1,6 @@
 # Vercel Field Guide
 
-**![Take a look 👀](https://delta1513.github.io/vercel-field-guide/)**
+**[Take a look 👀](https://delta1513.github.io/vercel-field-guide/)**
 
 A plain-language guide to Vercel's platform. Not how to configure anything,
 but what each product actually is, how it works, and what people build with it.
